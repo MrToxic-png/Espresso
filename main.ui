@@ -22,7 +22,7 @@
      <x>10</x>
      <y>10</y>
      <width>1121</width>
-     <height>871</height>
+     <height>811</height>
     </rect>
    </property>
    <attribute name="horizontalHeaderDefaultSectionSize">
@@ -128,6 +128,19 @@
      </font>
     </property>
    </column>
+  </widget>
+  <widget class="QPushButton" name="add_change">
+   <property name="geometry">
+    <rect>
+     <x>870</x>
+     <y>840</y>
+     <width>161</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Добавить/Изменить</string>
+   </property>
   </widget>
  </widget>
  <resources/>
